@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BFrYbQ3jp/8=",
+  "dgSpecHash": "WNtQ8HE6qGs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tigran\\Desktop\\TestTask\\TicTacToe.Api\\TicTacToe.Api.csproj",
+  "projectFilePath": "C:\\Users\\Tigran\\Source\\Repos\\internship-entry-task\\TicTacToe.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tigran\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.1\\microsoft.entityframeworkcore.9.0.1.nupkg.sha512",
     "C:\\Users\\Tigran\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.1\\microsoft.entityframeworkcore.abstractions.9.0.1.nupkg.sha512",
